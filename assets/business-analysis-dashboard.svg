@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" fill="none">
+  <rect width="720" height="540" fill="#F2F1EC"/>
+  <rect x="28" y="26" width="664" height="488" rx="10" fill="#FFF" stroke="#E1E2DD"/>
+  <text x="58" y="59" fill="#7B827D" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.5">BUSINESS ANALYSIS / KPI DASHBOARD</text>
+  <text x="58" y="91" fill="#202724" font-family="Georgia, serif" font-size="23" font-weight="600">E-commerce performance</text>
+  <rect x="552" y="47" width="108" height="25" rx="12.5" fill="#F2F4F1"/>
+  <circle cx="566" cy="59.5" r="3" fill="#7EA998"/>
+  <text x="576" y="63" fill="#5D6962" font-family="Arial, sans-serif" font-size="8" font-weight="600" letter-spacing=".5">SAMPLE VIEW</text>
+  <path d="M58 107H662" stroke="#E9EAE6"/>
+
+  <rect x="58" y="122" width="188" height="82" rx="5" fill="#FAFAF8" stroke="#E8E9E5"/>
+  <text x="73" y="143" fill="#7B827D" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="1">ORDERS PROCESSED</text>
+  <text x="73" y="178" fill="#27342F" font-family="Georgia, serif" font-size="25" font-weight="600">18.4K</text>
+  <path d="m193 175 8-8 7 5 11-13" stroke="#6E9F8D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M216 159h3v3" stroke="#6E9F8D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="266" y="122" width="188" height="82" rx="5" fill="#FAFAF8" stroke="#E8E9E5"/>
+  <text x="281" y="143" fill="#7B827D" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="1">CONVERSION RATE</text>
+  <text x="281" y="178" fill="#27342F" font-family="Georgia, serif" font-size="25" font-weight="600">3.8%</text>
+  <path d="m394 174 8-6 7 3 12-14" stroke="#6E9F8D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M418 157h3v3" stroke="#6E9F8D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="474" y="122" width="188" height="82" rx="5" fill="#FAFAF8" stroke="#E8E9E5"/>
+  <text x="489" y="143" fill="#7B827D" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="1">FULFILLMENT SLA</text>
+  <text x="489" y="178" fill="#27342F" font-family="Georgia, serif" font-size="25" font-weight="600">96.2%</text>
+  <path d="m606 174 8-8 7 4 11-12" stroke="#6E9F8D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M630 156h3v3" stroke="#6E9F8D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="58" y="220" width="366" height="248" rx="5" fill="#FFF" stroke="#E8E9E5"/>
+  <text x="76" y="246" fill="#303833" font-family="Arial, sans-serif" font-size="10" font-weight="700">Conversion trend</text>
+  <text x="76" y="261" fill="#929892" font-family="Arial, sans-serif" font-size="8">Weekly view · illustrative data</text>
+  <path d="M88 293H402M88 328H402M88 363H402M88 398H402" stroke="#ECEDE9"/>
+  <path d="M88 284V415H402" stroke="#D8DBD6"/>
+  <path d="m99 384 48-18 48 10 48-36 48 9 48-44 48 13 48-27" stroke="#578776" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m99 384 48-18 48 10 48-36 48 9 48-44 48 13 48-27v134H99z" fill="#DCE9E3" fill-opacity=".52"/>
+  <circle cx="99" cy="384" r="3.5" fill="#578776"/>
+  <circle cx="147" cy="366" r="3.5" fill="#578776"/>
+  <circle cx="195" cy="376" r="3.5" fill="#578776"/>
+  <circle cx="243" cy="340" r="3.5" fill="#578776"/>
+  <circle cx="291" cy="349" r="3.5" fill="#578776"/>
+  <circle cx="339" cy="305" r="3.5" fill="#578776"/>
+  <circle cx="387" cy="318" r="3.5" fill="#578776"/>
+  <text x="94" y="432" fill="#929892" font-family="Arial, sans-serif" font-size="7">W1</text>
+  <text x="142" y="432" fill="#929892" font-family="Arial, sans-serif" font-size="7">W2</text>
+  <text x="190" y="432" fill="#929892" font-family="Arial, sans-serif" font-size="7">W3</text>
+  <text x="238" y="432" fill="#929892" font-family="Arial, sans-serif" font-size="7">W4</text>
+  <text x="286" y="432" fill="#929892" font-family="Arial, sans-serif" font-size="7">W5</text>
+  <text x="334" y="432" fill="#929892" font-family="Arial, sans-serif" font-size="7">W6</text>
+  <text x="382" y="432" fill="#929892" font-family="Arial, sans-serif" font-size="7">W7</text>
+
+  <rect x="442" y="220" width="220" height="248" rx="5" fill="#FFF" stroke="#E8E9E5"/>
+  <text x="460" y="246" fill="#303833" font-family="Arial, sans-serif" font-size="10" font-weight="700">Requirements workflow</text>
+  <text x="460" y="261" fill="#929892" font-family="Arial, sans-serif" font-size="8">From discovery to delivery</text>
+  <text x="460" y="298" fill="#626A65" font-family="Arial, sans-serif" font-size="8">Discovery</text>
+  <rect x="460" y="307" width="176" height="7" rx="3.5" fill="#ECEEEA"/>
+  <rect x="460" y="307" width="149" height="7" rx="3.5" fill="#7EA998"/>
+  <text x="460" y="339" fill="#626A65" font-family="Arial, sans-serif" font-size="8">Definition</text>
+  <rect x="460" y="348" width="176" height="7" rx="3.5" fill="#ECEEEA"/>
+  <rect x="460" y="348" width="130" height="7" rx="3.5" fill="#91B4A7"/>
+  <text x="460" y="380" fill="#626A65" font-family="Arial, sans-serif" font-size="8">Validation</text>
+  <rect x="460" y="389" width="176" height="7" rx="3.5" fill="#ECEEEA"/>
+  <rect x="460" y="389" width="112" height="7" rx="3.5" fill="#A8C2B8"/>
+  <text x="460" y="421" fill="#626A65" font-family="Arial, sans-serif" font-size="8">Delivery</text>
+  <rect x="460" y="430" width="176" height="7" rx="3.5" fill="#ECEEEA"/>
+  <rect x="460" y="430" width="94" height="7" rx="3.5" fill="#C5D5CE"/>
+  <text x="58" y="492" fill="#858B86" font-family="Arial, sans-serif" font-size="8" font-weight="600" letter-spacing="1">ILLUSTRATIVE KPI AND PROCESS VISUALIZATION</text>
+</svg>
